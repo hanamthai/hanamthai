@@ -1,4 +1,4 @@
-<img alt="Coding" width="1000" height="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+<img alt="Coding" width="1000" height="500" src="http://static.ybox.vn/2020/8/1/1598838295437-ezgif.com-resize%20(2).gif">
 
 ## :point_right: Introduce myself:
 - My fullname is Ha Nam Thai, but you can call me Baron.
