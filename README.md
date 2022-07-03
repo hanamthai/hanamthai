@@ -1,4 +1,4 @@
-<img alt="Coding" width="1000" height="500" src="http://static.ybox.vn/2020/8/1/1598838295437-ezgif.com-resize%20(2).gif">
+<img alt="Coding" width="100%" src="http://static.ybox.vn/2020/8/1/1598838295437-ezgif.com-resize%20(2).gif">
 
 ## :point_right: Introduce myself:
 - My fullname is Ha Nam Thai, but you can call me Baron.
