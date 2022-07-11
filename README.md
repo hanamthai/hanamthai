@@ -18,8 +18,10 @@
 &nbsp; <img alt="css" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="30" width="30">
 &nbsp; <img alt="sass" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png" height="30" width="30"> 
 &nbsp; <img alt="boostrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height="30" width="35">
+&nbsp; <img alt="photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" height="30" width="30">
 &nbsp; <img alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30" width="30">
 &nbsp; <img alt="nodejs" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="30" width="30">
+&nbsp; <img alt="postman" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" height="30" width="30">
 &nbsp; <img alt="sqlsever" src="https://www.terabox.vn/wp-content/uploads/2018/08/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com_.png" height="30" width="30">
 &nbsp; <img alt="mysql" src="https://cuongquach.com/wp-content/uploads/2016/06/mysql-logo.png" height="30" width="30">
 &nbsp; <img alt="eclipse" src="https://gradle.org/images/homepage/eclipse.svg" height="30" width="30">
