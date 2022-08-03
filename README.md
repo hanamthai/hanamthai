@@ -3,7 +3,7 @@
 ## :point_right: Introduce myself:
 - My fullname is Ha Nam Thai, but you can call me Baron.
 - I'm junior at PTIT.
-- <b>Hobbies: </b> My hobbies are playing guitar :guitar:, reading books :books:, listening to music :musical_note: and having a special hobby is translating hentai comics <a href="https://lxhentai.com/nhom-dich/baron"> <img alt="lxhentai" src="https://lxhentai.com/favicon.ico" height=30 weight=30> </a>.
+- <b>Hobbies: </b> My hobbies are playing guitar :guitar:, reading books :books:, listening to music :musical_note: and having a special hobby is translating manga comics :book:.
 
 ## :notebook_with_decorative_cover: Languages and Tools:
 <p align="left">
