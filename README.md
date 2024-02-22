@@ -2,11 +2,12 @@
 
 ## :point_right: Introduce myself:
 - My fullname is Ha Nam Thai, but you can call me Baron.
-- I'm senior at PTIT.
+- I'm senior at PTIT and now i'm golang developer at Vigo Retail.
 - <b>Hobbies: </b> My hobbies are playing guitar :guitar:, reading books :books:, listening to music :musical_note: and having a special hobby is translating manga comics :book:.
 
 ## :notebook_with_decorative_cover: Languages and Tools:
 <p align="left">
+&nbsp; <img alt="golang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="30" width="30">
 &nbsp; <img alt="git" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" height="30" width="30">
 &nbsp; <img alt="c++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="30" width="30">
 &nbsp; <img alt="c#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="30" width="30">
@@ -22,9 +23,9 @@
 &nbsp; <img alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="30" width="30">
 &nbsp; <img alt="nodejs" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="30" width="30">
 &nbsp; <img alt="postman" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" height="30" width="30">
-&nbsp; <img alt="sqlsever" src="https://www.terabox.vn/wp-content/uploads/2018/08/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com_.png" height="30" width="30">
+&nbsp; <img alt="sqlsever" src="https://viettelidc.com.vn//uploadimage/Root/root/06-01-toan-tap-ve-sql-server-cho-nguoi-moi-bat-dau.jpg" height="30" width="30">
 &nbsp; <img alt="mysql" src="https://cuongquach.com/wp-content/uploads/2016/06/mysql-logo.png" height="30" width="30">
-&nbsp; <img alt="eclipse" src="https://gradle.org/images/homepage/eclipse.svg" height="30" width="30">
+&nbsp; <img alt="eclipse" src="https://gradle.org/images/homepage/eclipse.svg" height="30" width="40">
 </p>
 
 ## :bar_chart: Stats:
@@ -35,6 +36,8 @@
 
 ## :globe_with_meridians: Connect with me:
 <p align="left">
-&nbsp; <a href="https://www.facebook.com/thai.ha.75054689" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Facebook_logo_%28June_30%2C_2015%29.png" alt="facebook" height="30" width="100" /></a>
-&emsp; <a href="mailto:hanamthai02@gmail.com"><img align="center" alt="Gmail" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height=30 width=60></a>
+  &nbsp; <a href="https://www.facebook.com/thai.ha.75054689" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Facebook_logo_%28June_30%2C_2015%29.png" alt="facebook" height="30" width="100" /></a>
+  &emsp; <a href="mailto:hanamthai02@gmail.com"><img align="center" alt="Gmail" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height=30 width=60></a>
+  &nbsp; <a href="https://www.hackerrank.com/profile/hanamthai02" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="30" width="30" /></a>
+  &nbsp; <a href="https://leetcode.com/hanamthai/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode" height="30" width="30" /></a>
 </p>
