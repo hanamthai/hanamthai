@@ -7,7 +7,7 @@
 
 ## :notebook_with_decorative_cover: Languages and Tools:
 <p align="left">
-&nbsp; <img alt="golang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="30" width="30">
+&nbsp; <img alt="golang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="30" width="60">
 &nbsp; <img alt="git" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" height="30" width="30">
 &nbsp; <img alt="c++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="30" width="30">
 &nbsp; <img alt="c#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height="30" width="30">
