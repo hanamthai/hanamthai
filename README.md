@@ -31,8 +31,8 @@
 ## :bar_chart: Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamthai&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanamthai&theme=tokyonight)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanamthai&theme=tokyonight)](https://github.com/hanamthai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamthai&layout=compact&theme=radical)]([https://github.com/hanamthai])
+![](https://github-profile-trophy.vercel.app/?username=hanamthai&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ## :globe_with_meridians: Connect with me:
 <p align="left">
